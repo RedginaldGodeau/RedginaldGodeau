@@ -5,7 +5,7 @@
 
 - 🌱 J'apprend le **C#, ASP et WPF**
 
-- 🗒 Projet Holberton (Shell en C) [Simple Shell](https://github.com/RedginaldGodeau/holbertonschool-shell)
+- 🗒 Projet Holberton (Shell en C) [Simple Shell](https://github.com/Leakim01/holbertonschool-simple_shell)
 
 - 🗒 Projet Holberton (Fonction Printf en C) [Printf](https://github.com/HugoCLI/holbertonschool-printf)
 
