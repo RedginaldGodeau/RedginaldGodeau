@@ -9,6 +9,9 @@
 
 - 🗒 Projet Holberton (Fonction Printf en C) [Printf](https://github.com/HugoCLI/holbertonschool-printf)
 
+- 🗒 Projet personnel (Algorithme Évolutinnaire) [Evolutionary-algorithm
+]([https://github.com/HugoCLI/holbertonschool-printf](https://github.com/RedginaldGodeau/Evolutionary-algorithm))
+
 - 👨‍💻 Mon site [https://redginaldgodeau.online](https://redginaldgodeau.online)
 
 - 💬 Je recherche **un stage en software engeneer C#**
