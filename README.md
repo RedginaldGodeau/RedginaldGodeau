@@ -3,7 +3,7 @@
 
 - 🖋 Je suis occupé a travailler sur [Code Editor c#](https://github.com/RedginaldGodeau/TextEditorC-) [MGit c#](https://github.com/RedginaldGodeau/mgit-csharp)
 
-- 🌱 J'apprend le **C#, ASP et WPF**
+- 🌱 J'apprend le **C# / Java**
 
 - 🗒 Projet Holberton (Shell en C) [Simple Shell](https://github.com/Leakim01/holbertonschool-simple_shell)
 
