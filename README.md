@@ -1,3 +1,4 @@
+![plot](./Banner.png)
 <h1 align="center">Salut je suis Redginald Godeau</h1>
 <h3 align="center">Un étudiant d'HolbertonSchool et un dev qui aime le c#/c et faire du design !</h3>
 
