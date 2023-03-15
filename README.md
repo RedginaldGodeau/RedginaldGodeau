@@ -14,7 +14,7 @@
 
 - 👨‍💻 Mon site [https://redginaldgodeau.online](https://redginaldgodeau.online)
 
-- 💬 Je recherche **un stage en software engeneer C#**
+- 💬 Je recherche **un stage en développeur logiciel ou développeur fullstack**
 
 - 📫 Pour me contacter **redginald.godeau@holbertonstudents.com**
 
