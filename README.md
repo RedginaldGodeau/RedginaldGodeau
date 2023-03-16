@@ -8,18 +8,17 @@
 - 📫 Pour me contacter **redginald.godeau@holbertonstudents.com**
 
 ### Mes Projets:
-- [Simple Shell](https://github.com/RedginaldGodeau/holbertonschool-simple_shell)
-- [Printf](https://github.com/HugoCLI/holbertonschool-printf)
-- [Evolutionary-algorithm](https://github.com/RedginaldGodeau/Evolutionary-algorithm)
-- [CMS (WIP)](https://github.com/RedginaldGodeau/CMS_PHP)
-- [TODOLIST)](https://github.com/RedginaldGodeau/TodoListJava)
-- [MGIT)](https://github.com/RedginaldGodeau/ShellScripts)
+- <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" align="center" > [Simple Shell !](https://github.com/RedginaldGodeau/holbertonschool-simple_shell)
+- <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" align="center" > [Printf](https://github.com/HugoCLI/holbertonschool-printf)
+- <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" align="center" > [Evolutionary-algorithm](https://github.com/RedginaldGodeau/Evolutionary-algorithm)
+- <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=c&logoColor=white" align="center" > [CMS (WIP)](https://github.com/RedginaldGodeau/CMS_PHP)
+- <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=c&logoColor=white" align="center" > [TODOLIST](https://github.com/RedginaldGodeau/TodoListJava)
+- <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=c&logoColor=white" align="center" > [MGIT](https://github.com/RedginaldGodeau/ShellScripts)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/redginaldgodeau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="redginaldgodeau" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/redginald godeau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="redginald godeau" height="30" width="40" /></a>
-<a href="https://discord.gg/8891" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8891" height="30" width="40" /></a>
 </p>
 
 ### Développements:
