@@ -21,7 +21,9 @@
 <a href="https://linkedin.com/in/redginald godeau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="redginald godeau" height="30" width="40" /></a>
 <a href="https://discord.gg/8891" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8891" height="30" width="40" /></a>
 </p>
-### Développemnts:
+
+### Développements:
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codemaker2015&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedginaldGodeau&layout=compact&theme=blueberry)
