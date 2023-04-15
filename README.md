@@ -11,7 +11,6 @@
 - <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" align="center" > [Simple Shell !](https://github.com/RedginaldGodeau/holbertonschool-simple_shell)
 - <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" align="center" > [Printf](https://github.com/HugoCLI/holbertonschool-printf)
 - <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" align="center" > [Evolutionary-algorithm](https://github.com/RedginaldGodeau/Evolutionary-algorithm)
-- <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=c&logoColor=white" align="center" > [CMS (WIP)](https://github.com/RedginaldGodeau/CMS_PHP)
 - <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=c&logoColor=white" align="center" > [TODOLIST](https://github.com/RedginaldGodeau/TodoListJava)
 - <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=c&logoColor=white" align="center" > [MGIT](https://github.com/RedginaldGodeau/ShellScripts)
 
