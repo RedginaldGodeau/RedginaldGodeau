@@ -6,6 +6,7 @@
 - 🔭 Je travaille sur [Golang Register and Login](https://github.com/RedginaldGodeau/Golang-register-and-login)
 
 - 📫 Comment me contacter [Linkedin](https://www.linkedin.com/in/redginald-godeau-04ab8a254/)
+- 📄 [Mon site](https://redginaldgodeau.online/)
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
