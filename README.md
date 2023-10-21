@@ -3,7 +3,7 @@
 <h3 align="center">Je suis étudiant chez Holberton School pour devenir développeur de logiciels</h3>
 <br>
 
-- 🔭 Je travaille sur [Golang Register and Login](https://github.com/RedginaldGodeau/Golang-register-and-login)
+- 🔭 Je travaille sur [GOdeau Framework](https://github.com/RedginaldGodeau/GOdeau-Framework)
 
 - 📫 Comment me contacter [Linkedin](https://www.linkedin.com/in/redginald-godeau-04ab8a254/)
 - 📄 [Mon site](https://redginaldgodeau.online/)
