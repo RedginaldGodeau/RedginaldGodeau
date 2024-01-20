@@ -1,4 +1,4 @@
-![plot](./Banner.jpg)
+![plot](./banner.jpg)
 <h1 align="center">Hello World 👋, Je suis Redginald Godeau</h1>
 <h3 align="center">Je suis étudiant chez Holberton School pour devenir développeur de logiciels</h3>
 <br>
