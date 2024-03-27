@@ -6,7 +6,7 @@
 - 🔭 Je travaille sur [GOdeau Framework](https://github.com/RedginaldGodeau/GOdeau-Framework)
 
 - 📫 Comment me contacter [Linkedin](https://www.linkedin.com/in/redginald-godeau-04ab8a254/)
-- 📄 [Mon site](https://redginaldgodeau.online/)
+- 📄 [Mon site](https://redginaldgodeau.dev/)
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
