@@ -24,5 +24,5 @@
 
 <h2> Mes liens </h2>
 
-<a href="https://www.linkedin.com/in/redginald-godeau-04ab8a254/" target="blank">[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)</a>
-<a href="https://redginaldgodeau.dev/" target="blank">[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)</a>
+<a href="https://www.linkedin.com/in/redginald-godeau-04ab8a254/" target="blank">[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/redginald-godeau-04ab8a254/)</a>
+<a href="https://redginaldgodeau.dev/" target="blank">[![My Skills](https://skillicons.dev/icons?i=html)](https://redginaldgodeau.dev/)</a>
