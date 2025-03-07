@@ -6,19 +6,19 @@
 <h2> Mes Compétence </h2>
 <h3> Backend </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=go,php,symfony)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,php,symfony)](https://github.com/RedginaldGodeau)
 
 <hr/>
 
 <h3> Frontend </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vuejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vuejs)](https://github.com/RedginaldGodeau)
 
 <hr/>
 
 <h3> DevOps / Serveur </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,nginx,docker,postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,nginx,docker,postgres,mysql)](https://github.com/RedginaldGodeau)
 
 <hr/>
 
