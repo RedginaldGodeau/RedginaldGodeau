@@ -41,10 +41,13 @@ Je suis passionné par le développement informatique depuis mon enfance et je c
 
 ## Showcase
 
-WormsWasher - un jeu adapté de snake en golang: [Projet](https://github.com/RedginaldGodeau/WormsWasher)
-Livebot - un bot discord pour envoyer des mêmes en ligne en temps réel: [Projet](https://github.com/RedginaldGodeau/Live-Bot)
-Pokedex Go - un pokedex en golang avec une stack GOAT: [Projet](https://github.com/RedginaldGodeau/pokedex-golang-goat)
-Game of life - un jeu de la vie en golang & opengl: [Projet](https://github.com/RedginaldGodeau/Golang-OpenGL-GameOfLife)
+**WormsWasher** - un jeu adapté de snake en golang: [Lien](https://github.com/RedginaldGodeau/WormsWasher)
+
+**Livebot** - un bot discord pour envoyer des mêmes en ligne en temps réel: [Lien](https://github.com/RedginaldGodeau/Live-Bot)
+
+**Pokedex Go** - un pokedex en golang avec une stack GOAT: [Lien](https://github.com/RedginaldGodeau/pokedex-golang-goat)
+
+**Game of life** - un jeu de la vie en golang & opengl: [Lien](https://github.com/RedginaldGodeau/Golang-OpenGL-GameOfLife)
 
 ## Liens
 
