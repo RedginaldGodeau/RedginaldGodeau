@@ -3,8 +3,6 @@
 
 Je suis passionné par le développement informatique depuis mon enfance et je code depuis toujours. Fort de presque deux ans d'expérience en entreprise grâce à un stage et une alternance, j'ai acquis des compétences solides en développement fullstack. Je m'intéresse également au design et au DevOps, des domaines qui me passionnent.
 
-**Je cherche une alternance en développement Fullstack pour Juin / Juillet**
-
 ## Stack
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
