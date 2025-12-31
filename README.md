@@ -1,5 +1,5 @@
 ![plot](./banner.jpg)
-# Hello World 👋, Je suis Redginald Godeau
+# Hello World 👋, Je suis ABlueLobster
 
 Je suis passionné par le développement informatique depuis mon enfance et je code depuis toujours. Fort de presque deux ans d'expérience en entreprise grâce à un stage et une alternance, j'ai acquis des compétences solides en développement fullstack. Je m'intéresse également au design et au DevOps, des domaines qui me passionnent.
 
